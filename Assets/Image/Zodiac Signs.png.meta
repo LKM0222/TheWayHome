@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 1ff1ec5e682db4377a5998661b03fe02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2837520759975884908
+    second: Zodiac Signs_0
+  - first:
+      213: -9123314160159496822
+    second: Zodiac Signs_1
+  - first:
+      213: 6010081005519089160
+    second: Zodiac Signs_2
+  - first:
+      213: 1485484171010543593
+    second: Zodiac Signs_3
+  - first:
+      213: -7722427145164366819
+    second: Zodiac Signs_4
+  - first:
+      213: -6437128776372111561
+    second: Zodiac Signs_5
+  - first:
+      213: -896560040635744539
+    second: Zodiac Signs_6
+  - first:
+      213: -7576562615449264839
+    second: Zodiac Signs_7
+  - first:
+      213: 1006426092733102505
+    second: Zodiac Signs_8
+  - first:
+      213: 6984835418676295754
+    second: Zodiac Signs_9
+  - first:
+      213: 5375398526743295859
+    second: Zodiac Signs_10
+  - first:
+      213: -3042391303868193091
+    second: Zodiac Signs_11
+  - first:
+      213: -5132724128152202095
+    second: Zodiac Signs_12
+  - first:
+      213: -5758635736645040472
+    second: Zodiac Signs_13
+  - first:
+      213: -1542422870763705470
+    second: Zodiac Signs_14
+  - first:
+      213: 4898065053443012284
+    second: Zodiac Signs_15
+  - first:
+      213: -4855209082127759676
+    second: Zodiac Signs_16
+  - first:
+      213: -1011633238743205136
+    second: Zodiac Signs_17
+  - first:
+      213: -3210858479848294559
+    second: Zodiac Signs_18
+  - first:
+      213: -8122698875663617033
+    second: Zodiac Signs_19
+  - first:
+      213: -5203828296311485738
+    second: Zodiac Signs_20
+  - first:
+      213: -3904294621710996574
+    second: Zodiac Signs_21
+  - first:
+      213: 6441954773417613549
+    second: Zodiac Signs_22
+  - first:
+      213: -2899021963340106721
+    second: Zodiac Signs_23
+  - first:
+      213: -2577789194118549953
+    second: Zodiac Signs_24
+  - first:
+      213: 633963917678187835
+    second: Zodiac Signs_25
+  - first:
+      213: -9064936435698292510
+    second: Zodiac Signs_26
+  - first:
+      213: -1899587577286141561
+    second: Zodiac Signs_27
+  - first:
+      213: 1525359891178402861
+    second: Zodiac Signs_28
+  - first:
+      213: -6847486836398761446
+    second: Zodiac Signs_29
+  - first:
+      213: 3208706369192579147
+    second: Zodiac Signs_30
+  - first:
+      213: 3714797553581739062
+    second: Zodiac Signs_31
+  - first:
+      213: 3974503478026880204
+    second: Zodiac Signs_32
+  - first:
+      213: 2595541040227211299
+    second: Zodiac Signs_33
+  - first:
+      213: 3205914550281483242
+    second: Zodiac Signs_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zodiac Signs_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 390
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49747d217e91f98d0800000000000000
+      internalID: -2837520759975884908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 390
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85e665db1a736180800000000000000
+      internalID: -9123314160159496822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 395
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ea94de4d8186350800000000000000
+      internalID: 6010081005519089160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 395
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef8c8cabff7d9410800000000000000
+      internalID: 1485484171010543593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 396
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cd4a83d6d64d490800000000000000
+      internalID: -7722427145164366819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 395
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73735e6bb79baa6a0800000000000000
+      internalID: -6437128776372111561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 395
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeb81aa467ce83f0800000000000000
+      internalID: -896560040635744539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 396
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d54af8174aad690800000000000000
+      internalID: -7576562615449264839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 395
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a97a06f23b87fd00800000000000000
+      internalID: 1006426092733102505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 395
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4874c85ece1fe060800000000000000
+      internalID: 6984835418676295754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_10
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 394
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37731b0ea70499a40800000000000000
+      internalID: 5375398526743295859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 271
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6e2397a3147c5d0800000000000000
+      internalID: -3042391303868193091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 271
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194596b8996e4c8b0800000000000000
+      internalID: -5132724128152202095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6076ede473510b0800000000000000
+      internalID: -5758635736645040472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 271
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28be0b63296389ae0800000000000000
+      internalID: -1542422870763705470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_15
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 251
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6b93d073c69f340800000000000000
+      internalID: 4898065053443012284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 252
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c646855015de9cb0800000000000000
+      internalID: -4855209082127759676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 254
+        width: 58
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fabbb1ede4f5f1f0800000000000000
+      internalID: -1011633238743205136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_18
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 254
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1677794793db073d0800000000000000
+      internalID: -3210858479848294559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 155
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3fa929860664f80800000000000000
+      internalID: -8122698875663617033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 155
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da4a3e4cb948c7b0800000000000000
+      internalID: -5203828296311485738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 155
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba2763ab821d9c0800000000000000
+      internalID: -3904294621710996574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_22
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 155
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de850b84cbb666950800000000000000
+      internalID: 6441954773417613549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 139
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14be0f42ea94c7d0800000000000000
+      internalID: -2899021963340106721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 138
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e29bab26ad93cd0800000000000000
+      internalID: -2577789194118549953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 138
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b359f9103da4cc800800000000000000
+      internalID: 633963917678187835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_26
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 138
+        width: 65
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e825bef650e23280800000000000000
+      internalID: -9064936435698292510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 43
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895d14b92f43a5e0800000000000000
+      internalID: -1899587577286141561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 42
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2431544dba2b2510800000000000000
+      internalID: 1525359891178402861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ad9487007d8f0a0800000000000000
+      internalID: -6847486836398761446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_30
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 43
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40d14c317d978c20800000000000000
+      internalID: 3208706369192579147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 25
+        width: 97
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ccab171bc9d8330800000000000000
+      internalID: 3714797553581739062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 24
+        width: 87
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4c85efad5482730800000000000000
+      internalID: 3974503478026880204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 23
+        width: 75
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328d0b603d6350420800000000000000
+      internalID: 2595541040227211299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zodiac Signs_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 25
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b8cd3c42bd7c20800000000000000
+      internalID: 3205914550281483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

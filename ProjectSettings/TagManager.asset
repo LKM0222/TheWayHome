@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Warmhole
+  - Wall
+  - DangerZone
+  - Money5
+  - Money15
+  - SmallStar
+  - BigStar
+  - Zodiac1
+  - Zodiac2
+  - Zodiac3
+  - Zodiac4
+  - Zodiac5
+  - Zodiac6
+  - Zodiac7
+  - Zodiac8
+  - Zodiac9
+  - Zodiac10
+  - Zodiac11
+  - Zodiac12
+  - Zodiac
+  - Blackhole
+  - Whitehole
+  - BGMSlider
+  - SFXSlider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - wall
+  - Water
+  - UI
+  - Player
+  - PlayerHit
+  - wall
+  - Item
+  - ZodiacBooster
+  - BlackHole
+  - Wormhole
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4238546259
+    locked: 0
+  - name: Item
+    uniqueID: 2504549705
+    locked: 0
+  - name: Player
+    uniqueID: 4207507153
+    locked: 0
+  - name: BackGround
+    uniqueID: 1326429401
+    locked: 0
+  - name: DangerUI
+    uniqueID: 1957136293
+    locked: 0
+  - name: UI
+    uniqueID: 1402156241
+    locked: 0
+  - name: Panel
+    uniqueID: 92766861
+    locked: 0
+  - name: Meteor
+    uniqueID: 1378278489
+    locked: 0
+  - name: UI
+    uniqueID: 1176163643
+    locked: 0

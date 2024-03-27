@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: ba193a0a9ad314fa7821522a71d38b81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8288703124892479611
+    second: thewayhomespriteimg_0
+  - first:
+      213: -4125747802023377733
+    second: thewayhomespriteimg_1
+  - first:
+      213: 7572704993323149667
+    second: thewayhomespriteimg_2
+  - first:
+      213: 7311747203932140538
+    second: thewayhomespriteimg_3
+  - first:
+      213: 2850915708226834632
+    second: thewayhomespriteimg_4
+  - first:
+      213: -1100707523645151825
+    second: thewayhomespriteimg_5
+  - first:
+      213: -8211321256817992105
+    second: thewayhomespriteimg_6
+  - first:
+      213: -4704240735916481466
+    second: thewayhomespriteimg_7
+  - first:
+      213: -2999482678647648943
+    second: thewayhomespriteimg_8
+  - first:
+      213: 3257200745881042145
+    second: thewayhomespriteimg_9
+  - first:
+      213: 8990905155912467644
+    second: thewayhomespriteimg_10
+  - first:
+      213: 5196842740655721235
+    second: thewayhomespriteimg_11
+  - first:
+      213: 467167312555977651
+    second: thewayhomespriteimg_12
+  - first:
+      213: 8307162949623515924
+    second: thewayhomespriteimg_13
+  - first:
+      213: -2503354915478170614
+    second: thewayhomespriteimg_14
+  - first:
+      213: -2488001584692597491
+    second: thewayhomespriteimg_15
+  - first:
+      213: 6177723111149495821
+    second: thewayhomespriteimg_16
+  - first:
+      213: 4160320851312109630
+    second: thewayhomespriteimg_17
+  - first:
+      213: -3786900084090814358
+    second: thewayhomespriteimg_18
+  - first:
+      213: -4592958502374952081
+    second: thewayhomespriteimg_19
+  - first:
+      213: -2648520512269610196
+    second: thewayhomespriteimg_20
+  - first:
+      213: -2649271785290806755
+    second: thewayhomespriteimg_21
+  - first:
+      213: 4622127916479747686
+    second: thewayhomespriteimg_22
+  - first:
+      213: 7874204106611527550
+    second: thewayhomespriteimg_23
+  - first:
+      213: -8032388071767212627
+    second: thewayhomespriteimg_24
+  - first:
+      213: 8808076172256223148
+    second: thewayhomespriteimg_25
+  - first:
+      213: -7878027173190967507
+    second: thewayhomespriteimg_26
+  - first:
+      213: -6434102157679761546
+    second: thewayhomespriteimg_27
+  - first:
+      213: -7910153371814673990
+    second: thewayhomespriteimg_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thewayhomespriteimg_0
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2872
+        width: 463
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f2ef9393670370800000000000000
+      internalID: 8288703124892479611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2872
+        width: 463
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb44c83bb366eb6c0800000000000000
+      internalID: -4125747802023377733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_2
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2872
+        width: 496
+        height: 477
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3696adbc117a71960800000000000000
+      internalID: 7572704993323149667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_3
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 3147
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b4d9b75b887560800000000000000
+      internalID: 7311747203932140538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_4
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2872
+        width: 525
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c011795bbc709720800000000000000
+      internalID: 2850915708226834632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_5
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2854
+        width: 593
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e78bc65089b0f0800000000000000
+      internalID: -1100707523645151825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_6
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 2839
+        width: 515
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75edfb682d68b0e80800000000000000
+      internalID: -8211321256817992105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_7
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 2868
+        width: 463
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a6cd89fd27beb0800000000000000
+      internalID: -4704240735916481466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2019
+        width: 653
+        height: 653
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d054d4562bf56d0800000000000000
+      internalID: -2999482678647648943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_9
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1985
+        width: 683
+        height: 644
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec706c22d6e33d20800000000000000
+      internalID: 3257200745881042145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_10
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1998
+        width: 600
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4046b7a9c16cc70800000000000000
+      internalID: 8990905155912467644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_11
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1978
+        width: 600
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0a5640f4ee1840800000000000000
+      internalID: 5196842740655721235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_12
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 1988
+        width: 592
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba2931236bb7600800000000000000
+      internalID: 467167312555977651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_13
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 1977
+        width: 592
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b889f70b8f84370800000000000000
+      internalID: 8307162949623515924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_14
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 1978
+        width: 600
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04123cb7fb424dd0800000000000000
+      internalID: -2503354915478170614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1361
+        width: 591
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de9cf9db7d87dd0800000000000000
+      internalID: -2488001584692597491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1336
+        width: 567
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0669c8407eabb550800000000000000
+      internalID: 6177723111149495821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_17
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1305
+        width: 600
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38eb1e95cd6cb930800000000000000
+      internalID: 4160320851312109630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_18
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 1315
+        width: 600
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60ced7ff6a327bc0800000000000000
+      internalID: -3786900084090814358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_19
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 1315
+        width: 592
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b4dd93988240c0800000000000000
+      internalID: -4592958502374952081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_20
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 1326
+        width: 591
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2395d560a09e3bd0800000000000000
+      internalID: -2648520512269610196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_21
+      rect:
+        serializedVersion: 2
+        x: 4575
+        y: 1326
+        width: 601
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ac6440955eb3bd0800000000000000
+      internalID: -2649271785290806755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 405
+        width: 804
+        height: 616
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661138d9d8152040800000000000000
+      internalID: 4622127916479747686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_23
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 3240
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f80876aeac64d60800000000000000
+      internalID: 7874204106611527550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_24
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3028
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadfa3c2b99378090800000000000000
+      internalID: -8032388071767212627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_25
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 2947
+        width: 116
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1ae98c929c3a70800000000000000
+      internalID: 8808076172256223148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_26
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 2960
+        width: 254
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fd31b8600aba290800000000000000
+      internalID: -7878027173190967507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_27
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2903
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776cea4d2a75b6a0800000000000000
+      internalID: -6434102157679761546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thewayhomespriteimg_28
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2870
+        width: 485
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1c02a0b6d793290800000000000000
+      internalID: -7910153371814673990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
